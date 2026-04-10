@@ -10,18 +10,6 @@ https://github.com/user-attachments/assets/REPLACE_WITH_UPLOADED_VIDEO_ID
 
 > Upload the screen recording to GitHub and replace the link above.
 
-## Screenshots
-
-| Home | Videos | Community |
-|------|--------|-----------|
-| ![Home](screenshots/home.png) | ![Videos](screenshots/videos.png) | ![Community](screenshots/community.png) |
-
-| Mod Application | Admin Dashboard | Patch Notes |
-|-----------------|-----------------|-------------|
-| ![Mod App](screenshots/mod-application.png) | ![Admin](screenshots/admin.png) | ![Patch Notes](screenshots/patch-notes.png) |
-
-> Add screenshots to a `/screenshots` folder in the repo root.
-
 ## Key Features
 
 - **Interactive 3D Starfield** — Three.js powered animated background with performance-optimized rendering (capped FPS, low-power GPU mode, proper disposal)
