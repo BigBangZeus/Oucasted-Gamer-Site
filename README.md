@@ -6,7 +6,7 @@ A high-performance portfolio and community platform built for **OucastedGamer**,
 
 ## Preview
 
-[https://github.com/user-attachments/assets/REPLACE_WITH_UPLOADED_VIDEO_ID](https://github.com/user-attachments/assets/a30bab74-9208-4387-83a3-cd34c7ee700e)
+https://github.com/user-attachments/assets/af2bfcf1-5454-473f-86ba-95e3c3266fd0
 
 > Upload the screen recording to GitHub and replace the link above.
 
